@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+a {
+    font-family: 'Poppins';
+    text-decoration: none;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    margin: 0;
+    font-weight: bold;
+}
+
+body {
+    background: #FFFDFA;
+    margin: 0;
+    font-family: 'Poppins';
+    text-align: center;
+    color: black;
+    text-decoration: none;
+
+}
+
+blockquote {
+    font-style: normal;
+    font-size:  16px;
+    font-family: 'Poppins';
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.mercedes {
+    text-align: center;
+}
+
+.haas {
+    text-align: center;
+}
+
+.rbull {
+    text-align: center;
+}
+
+.williams {
+    text-align: center;
+}
+
+.mclaren {
+    text-align: center;
+}
+
+.aston {
+    text-align: center;
+}
+
+.fireworks {
+    width: 80%;
+}
+
+.beine {
+    width: 80%;
+    text-align: center;
+    font-size: 5px;
+}
+
+
